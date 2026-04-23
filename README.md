@@ -19,10 +19,10 @@ I build **mobile-first applications, automation systems, and digital products** 
 
 I combine **technology + creativity** to design systems that are not just functional, but engaging and scalable.
 
-- ⚡ Turning ideas into real products  
-- 🔗 Automating workflows and systems  
+- ⚡ Turning ideas into real products    
 - 📱 Building user-focused mobile apps  
 - ✍️ Creating content, stories, and digital experiences  
+- 📍 Engaging graphics designing
 
 ---
 
@@ -31,7 +31,7 @@ I combine **technology + creativity** to design systems that are not just functi
 <p align="center">
   <img src="https://img.shields.io/badge/Sketchware%20Pro-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Content%20Writing-222222?style=for-the-badge"/>
