@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CrazyBuddha
 
 <p align="center">
-  <b>Mobile App Developer • Automation Builder • Product Architect</b><br/>
+  <b>Mobile App Developer • Product Architect</b><br/>
   Content Writer • Graphic Designer • Webnovel Creator
 </p>
 
@@ -30,6 +30,7 @@ I combine **technology + creativity** to design systems that are not just functi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sketchware%20Pro-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
