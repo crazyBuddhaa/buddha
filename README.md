@@ -42,15 +42,6 @@ I combine **technology + creativity** to design systems that are not just functi
 
 ## 🏆 Featured Projects
 
-### 📱 Lyrics Sync App
-> Real-time lyrics display across multiple platforms  
-
-- 🎵 Live lyrics synchronization  
-- 🔗 Spotify, Audiomack, Deezer support  
-- ⚡ Fast API-powered system  
-
----
-
 ### 💰 AdBounty *(In Progress)*
 > A reward-based engagement platform  
 
