@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Mobile App Developer • Automation Builder • Product Architect</b><br/>
-  Building scalable apps, smart systems, and monetization-driven products.
+  Content Writer • Graphic Designer • Webnovel Creator
 </p>
 
 <p align="center">
@@ -15,60 +15,78 @@
 
 ## 🚀 About Me
 
-I design and build **mobile-first applications and automation systems** that solve real problems.  
-My work focuses on **user engagement, monetization, and system efficiency**.
+I build **mobile-first applications, automation systems, and digital products** that solve real-world problems.
 
-- ⚡ Turning ideas into real, scalable products  
-- 🔗 Integrating APIs and automation pipelines  
-- 📱 Building apps with real-world utility  
-- 💡 Focused on growth, systems, and execution  
+I combine **technology + creativity** to design systems that are not just functional, but engaging and scalable.
+
+- ⚡ Turning ideas into real products  
+- 🔗 Automating workflows and systems  
+- 📱 Building user-focused mobile apps  
+- ✍️ Creating content, stories, and digital experiences  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech & Creative Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sketchware%20Pro-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Content%20Writing-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF4088?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
+### 📱 Lyrics Sync App
+> Real-time lyrics display across multiple platforms  
+
+- 🎵 Live lyrics synchronization  
+- 🔗 Spotify, Audiomack, Deezer support  
+- ⚡ Fast API-powered system  
+
+---
+
 ### 💰 AdBounty *(In Progress)*
-> A reward-based engagement platform
+> A reward-based engagement platform  
 
 - 🎯 Earn from ads, tasks, and surveys  
 - 🎮 HTML5 games integration  
 - ⚽ Sports prediction system  
 - 📊 User earning dashboard  
 
-**Focus:** Monetization • User Retention • Scalable Systems  
-
 ---
 
-### 📊 Punter Stats App *(In Development)*
-> Betting analytics and performance tracking
+### 📊 Punter Stats App
+> Betting analytics & performance tracking  
 
-- 📈 Track wins & losses  
-- 📊 Analyze patterns  
+- 📈 Track wins and losses  
+- 📊 Analyze betting patterns  
 - 🧠 Improve decision making  
 
-**Focus:** Data Tracking • Analytics • User Insight  
+🔗 **Live Project:** http://punterstats.qzz.io  
 
 ---
 
-### 🏪 MyVendor *(Concept & Case Study)*
-> E-commerce solution for social media sellers
+### 🏪 MyVendor
+> E-commerce solution for social media sellers  
 
 - 🛒 Store automation  
-- 💬 WhatsApp-based selling system  
+- 💬 WhatsApp-based selling  
 - 📦 Product & order management  
 
-**Focus:** Automation • Vendor Tools • Digital Commerce  
+🔗 **Case Study:** http://myvendor.qzz.io  
+
+---
+
+## ✍️ Creative Work
+
+- 📝 Content Writing (articles, digital content)  
+- 🎨 Graphic Design (branding, visuals)  
+- 📖 Webnovel Writing (story building & world creation)  
 
 ---
 
@@ -83,10 +101,10 @@ My work focuses on **user engagement, monetization, and system efficiency**.
 
 ## 🎯 Current Focus
 
-- 🚀 Launching scalable mobile products  
+- 🚀 Launching scalable mobile apps  
 - 🎨 Improving UI/UX design  
-- 🔧 Backend integration (Firebase & Supabase)  
-- 📈 Building high-impact digital systems  
+- 🔧 Backend systems (Firebase & Supabase)  
+- 📈 Building impactful digital products  
 
 ---
 
@@ -103,6 +121,6 @@ My work focuses on **user engagement, monetization, and system efficiency**.
 ## ⚡ Philosophy
 
 > Build. Learn. Improve. Repeat.  
-> Systems over stress. Execution over excuses.
+> Creativity meets execution.
 
 ---
